@@ -1,0 +1,7 @@
+com\mycompany\sistemacentralizado2\controladores\exceptions\NonexistentEntityException.class
+com\mycompany\sistemacentralizado2\controladores\exceptions\PreexistingEntityException.class
+com\mycompany\sistemacentralizado2\controladores\exceptions\IllegalOrphanException.class
+com\mycompany\sistemacentralizado2\entidades\Producto.class
+com\mycompany\sistemacentralizado2\controladores\ProductoJpaController.class
+com\mycompany\sistemacentralizado2\entidades\Producto_.class
+com\mycompany\sistemacentralizado2\principal\Test.class
